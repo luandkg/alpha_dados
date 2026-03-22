@@ -181,4 +181,4 @@
 
 
 ## Informações
-Construído por scholarium.bot@shcolarium.com.br | 22/03/2026 20:33:00
+Construído por scholarium.bot@shcolarium.com.br | 22/03/2026 20:50:18
