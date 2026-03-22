@@ -1,5 +1,9 @@
-# Relatório 1° BIMESTRE - 8A
-| Avaliação Diagnóstica | Ciências e o Método Científico | ATIVIDADE 1 | Células e suas estruturas | ATIVIDADE 2 | Divisão celular | ATIVIDADE 3 | ATIVIDADE 4 | Tipos de reprodução | ATIVIDADE 5 | Briófitas | Pteridófitas | NOTA FINAL | Atividades | Provas | 
+# Relatórios 1° BIMESTRE
+
+## Relatório 1° BIMESTRE - 8A
+
+| ID | NOME | Avaliação Diagnóstica | Ciências e o Método Científico | ATIVIDADE 1 | Células e suas estruturas | ATIVIDADE 2 | Divisão celular | ATIVIDADE 3 | ATIVIDADE 4 | Tipos de reprodução | ATIVIDADE 5 | Briófitas | Pteridófitas | NOTA FINAL | Atividades | Provas | 
+| :--- | :--- |  :--- |  :--- |  :--- |  :--- |  :--- |  :--- |  :--- |  :--- |  :--- |  :--- |  :--- |  :--- |  :--- |  :--- |  :--- | 
 | 1 | Adrian Djeimes Ramos da Silva | SIM | SIM | SIM | SIM | SIM | SIM | SIM | SIM | SIM | SIM | SIM | SIM | 5.0 | 0.41 | 0.0 | 
 | 2 | Amanda Nunes de Aguiar | SIM | SIM | SIM | SIM | SIM | SIM | SIM | SIM | SIM | SIM | SIM | SIM | 5.0 | 0.41 | 0.0 | 
 | 3 | Ane Gabriella Vorpagel Cunha | SIM | SIM | SIM | SIM | SIM | SIM | SIM | SIM | SIM | SIM | SIM | SIM | 5.0 | 0.41 | 0.0 | 
@@ -18,8 +22,10 @@
 | 16 | Renan Sousa Santos | SIM | SIM | SIM | SIM | SIM | SIM | SIM | SIM | SIM | SIM | SIM | SIM | 5.0 | 0.41 | 0.0 | 
 | 17 | Victor Hugo Rodrigues de Souza | SIM | SIM | SIM | SIM | SIM | SIM | SIM | SIM | SIM | SIM | SIM | SIM | 5.0 | 0.41 | 0.0 | 
 | 18 | Davi de Jesus Almeida |  |  | SIM | SIM | SIM |  | SIM | SIM | SIM | SIM | SIM | SIM | 3.8 | 0.41 | 0.0 | 
-# Relatório 1° BIMESTRE - 8B
-| Avaliação Diagnóstica | Ciências e o Método Científico | ATIVIDADE 1 | Células e suas estruturas | ATIVIDADE 2 | Divisão celular | ATIVIDADE 3 | ATIVIDADE 4 | Tipos de reprodução | ATIVIDADE 5 | NOTA FINAL | Atividades | Provas | 
+## Relatório 1° BIMESTRE - 8B
+
+| ID | NOME | Avaliação Diagnóstica | Ciências e o Método Científico | ATIVIDADE 1 | Células e suas estruturas | ATIVIDADE 2 | Divisão celular | ATIVIDADE 3 | ATIVIDADE 4 | Tipos de reprodução | ATIVIDADE 5 | NOTA FINAL | Atividades | Provas | 
+| :--- | :--- |  :--- |  :--- |  :--- |  :--- |  :--- |  :--- |  :--- |  :--- |  :--- |  :--- |  :--- |  :--- |  :--- | 
 | 1 | Ana Julia Xavier Santos | SIM | SIM | SIM | SIM | SIM | SIM | SIM | SIM | SIM | SIM | 5.0 | 0.5 | 0.0 | 
 | 2 | Anne Vitória Alves Moreira | SIM | SIM | SIM | SIM | SIM | SIM | SIM |  | SIM | SIM | 4.5 | 0.5 | 0.0 | 
 | 3 | Calebe Carvalho Vasconcelos | SIM | SIM | SIM | SIM | SIM |  | SIM | SIM | SIM |  | 4.0 | 0.5 | 0.0 | 
@@ -46,8 +52,10 @@
 | 24 | Yasmin Rodrigues Lopes | SIM | SIM |  | SIM | SIM | SIM | SIM |  | SIM | SIM | 4.0 | 0.5 | 0.0 | 
 | 25 | Yasmin Rodrigues Moreira | SIM | SIM | SIM | SIM | SIM | SIM | SIM | SIM | SIM | SIM | 5.0 | 0.5 | 0.0 | 
 | 26 | Zidane Teixeira Barbosa | SIM | SIM | SIM | SIM | SIM | SIM | SIM | SIM | SIM | SIM | 5.0 | 0.5 | 0.0 | 
-# Relatório 1° BIMESTRE - 8C
-| Avaliação Diagnóstica | Ciências e o Método Científico | ATIVIDADE 1 | Células e suas estruturas | ATIVIDADE 2 | Divisão celular | ATIVIDADE 3 | ATIVIDADE 4 | Tipos de reprodução | ATIVIDADE 5 | NOTA FINAL | Atividades | Provas | 
+## Relatório 1° BIMESTRE - 8C
+
+| ID | NOME | Avaliação Diagnóstica | Ciências e o Método Científico | ATIVIDADE 1 | Células e suas estruturas | ATIVIDADE 2 | Divisão celular | ATIVIDADE 3 | ATIVIDADE 4 | Tipos de reprodução | ATIVIDADE 5 | NOTA FINAL | Atividades | Provas | 
+| :--- | :--- |  :--- |  :--- |  :--- |  :--- |  :--- |  :--- |  :--- |  :--- |  :--- |  :--- |  :--- |  :--- |  :--- | 
 | 1 | Alice Pereira Alves | SIM | SIM | SIM | SIM | SIM | SIM | SIM | SIM |  |  | 4.0 | 0.5 | 0.0 | 
 | 2 | Arthur Cardoso Silva | SIM | SIM | SIM | SIM | SIM | SIM | SIM | SIM | SIM | SIM | 5.0 | 0.5 | 0.0 | 
 | 3 | Aylane da Silva Lopes | SIM | SIM | SIM | SIM | SIM |  |  |  |  |  | 2.5 | 0.5 | 0.0 | 
@@ -75,8 +83,10 @@
 | 25 | Tayla Suellen Martins da Silva | SIM | SIM | SIM | SIM | SIM | SIM | SIM | SIM | SIM | SIM | 5.0 | 0.5 | 0.0 | 
 | 26 | Victor Hugo Silva Brito |  | SIM |  | SIM | SIM | SIM | SIM | SIM |  |  | 3.0 | 0.5 | 0.0 | 
 | 27 | Vítor Hugo Nogueira Nunes | SIM | SIM | SIM | SIM | SIM | SIM | SIM | SIM | SIM | SIM | 5.0 | 0.5 | 0.0 | 
-# Relatório 1° BIMESTRE - 6A
-| Avaliação Diagnóstica | Ciências e o Método Científico | ATIVIDADE 1 | Metodologia em Pesquisa Científica | Estrutura de um Relatório de Pesquisa Científica | Níveis de organização dos seres vivos | ATIVIDADE 2 | Citologia | NOTA FINAL | Atividades | Provas | 
+## Relatório 1° BIMESTRE - 6A
+
+| ID | NOME | Avaliação Diagnóstica | Ciências e o Método Científico | ATIVIDADE 1 | Metodologia em Pesquisa Científica | Estrutura de um Relatório de Pesquisa Científica | Níveis de organização dos seres vivos | ATIVIDADE 2 | Citologia | NOTA FINAL | Atividades | Provas | 
+| :--- | :--- |  :--- |  :--- |  :--- |  :--- |  :--- |  :--- |  :--- |  :--- |  :--- |  :--- |  :--- | 
 | 1 | Ana Clara Rodrigues dos Santos | SIM | SIM | SIM | SIM | SIM | SIM | SIM | SIM | 4.5 | 0.55 | 0.0 | 
 | 2 | Ana Paula Alves da Silva | SIM | SIM | SIM | SIM | SIM | SIM | SIM | SIM | 4.5 | 0.55 | 0.0 | 
 | 3 | Arthur Ricardo Borges de Oliveira | SIM |  |  | SIM | SIM | SIM | SIM | SIM | 3.4 | 0.55 | 0.0 | 
@@ -92,8 +102,10 @@
 | 13 | Yan Guilherme Rodrigues Gomes | SIM | SIM | SIM | SIM | SIM | SIM | SIM | SIM | 4.5 | 0.55 | 0.0 | 
 | 14 | Cauã dos Santos Nunes |  |  |  |  |  | SIM | SIM | SIM | 1.7 | 0.55 | 0.0 | 
 | 15 | Gabriela de Freitas Marcelino |  |  |  |  |  |  |  |  | 0.0 | 0.0 | 0.0 | 
-# Relatório 1° BIMESTRE - 6B
-| Avaliação Diagnóstica | Ciências e o Método Científico | Níveis de organização dos seres vivos | Citologia | ATIVIDADE 1 | Metodologia em Pesquisa Científica | Estrutura de um Relatório de Pesquisa Científica | ATIVIDADE 2 | ATIVIDADE 3 | ATIVIDADE 4 | NOTA FINAL | Atividades | Provas | 
+## Relatório 1° BIMESTRE - 6B
+
+| ID | NOME | Avaliação Diagnóstica | Ciências e o Método Científico | Níveis de organização dos seres vivos | Citologia | ATIVIDADE 1 | Metodologia em Pesquisa Científica | Estrutura de um Relatório de Pesquisa Científica | ATIVIDADE 2 | ATIVIDADE 3 | ATIVIDADE 4 | NOTA FINAL | Atividades | Provas | 
+| :--- | :--- |  :--- |  :--- |  :--- |  :--- |  :--- |  :--- |  :--- |  :--- |  :--- |  :--- |  :--- |  :--- |  :--- | 
 | 1 | Alana Sofia Silva Araujo | SIM | SIM | SIM | SIM |  |  |  |  |  |  | 2.0 | 0.5 | 0.0 | 
 | 2 | Alice Vitória dos Santos Costa | SIM | SIM | SIM |  | SIM | SIM | SIM | SIM | SIM |  | 4.0 | 0.5 | 0.0 | 
 | 3 | Breno Almeida Brito |  |  |  | SIM |  | SIM | SIM |  | SIM | SIM | 2.5 | 0.5 | 0.0 | 
@@ -110,8 +122,10 @@
 | 14 | Yasmin da Silva Jorge | SIM | SIM | SIM | SIM | SIM | SIM | SIM | SIM |  |  | 4.0 | 0.5 | 0.0 | 
 | 15 | Geovanna Rodrigues Carneiro |  | SIM | SIM | SIM | SIM |  |  |  |  |  | 2.0 | 0.5 | 0.0 | 
 | 16 | Leowics da Silva Freitas | SIM | SIM | SIM | SIM | SIM |  |  |  |  |  | 2.5 | 0.5 | 0.0 | 
-# Relatório 1° BIMESTRE - 6C
-| Avaliação Diagnóstica | Ciências e o Método Científico | ATIVIDADE 1 | Metodologia em Pesquisa Científica | Estrutura de um Relatório de Pesquisa Científica | Níveis de organização do corpo humano | ATIVIDADE 2 | Citologia | ATIVIDADE 3 | ATIVIDADE 4 | NOTA FINAL | Atividades | Provas | 
+## Relatório 1° BIMESTRE - 6C
+
+| ID | NOME | Avaliação Diagnóstica | Ciências e o Método Científico | ATIVIDADE 1 | Metodologia em Pesquisa Científica | Estrutura de um Relatório de Pesquisa Científica | Níveis de organização do corpo humano | ATIVIDADE 2 | Citologia | ATIVIDADE 3 | ATIVIDADE 4 | NOTA FINAL | Atividades | Provas | 
+| :--- | :--- |  :--- |  :--- |  :--- |  :--- |  :--- |  :--- |  :--- |  :--- |  :--- |  :--- |  :--- |  :--- |  :--- | 
 | 1 | Anna Julia Sousa dos Santos | SIM | SIM | SIM | SIM | SIM | SIM | SIM | SIM | SIM | SIM | 5.0 | 0.5 | 0.0 | 
 | 2 | Davi Moura dos Santos | SIM | SIM | SIM | SIM | SIM |  |  | SIM |  | SIM | 3.5 | 0.5 | 0.0 | 
 | 3 | Dheovana Beatriz Pereira Rodrigues | SIM | SIM | SIM | SIM | SIM | SIM | SIM | SIM |  | SIM | 4.5 | 0.5 | 0.0 | 
@@ -130,8 +144,10 @@
 | 16 | Maria Cecília da Mata Brito |  | SIM | SIM | SIM | SIM | SIM |  | SIM |  |  | 3.0 | 0.5 | 0.0 | 
 | 17 | Emilly Ive da Silva Melo |  |  | SIM |  |  |  | SIM | SIM |  |  | 1.5 | 0.5 | 0.0 | 
 | 18 | Luiza Santos Araújo |  |  |  | SIM | SIM |  |  | SIM |  |  | 1.5 | 0.5 | 0.0 | 
-# Relatório 1° BIMESTRE - 6D
-| Avaliação Diagnóstica | Ciências e o Método Científico | ATIVIDADE 1 | Metodologia em Pesquisa Científica | Estrutura de um Relatório de Pesquisa Científica | Níveis de organização dos seres vivos | ATIVIDADE 2 | Citologia | NOTA FINAL | Atividades | Provas | 
+## Relatório 1° BIMESTRE - 6D
+
+| ID | NOME | Avaliação Diagnóstica | Ciências e o Método Científico | ATIVIDADE 1 | Metodologia em Pesquisa Científica | Estrutura de um Relatório de Pesquisa Científica | Níveis de organização dos seres vivos | ATIVIDADE 2 | Citologia | NOTA FINAL | Atividades | Provas | 
+| :--- | :--- |  :--- |  :--- |  :--- |  :--- |  :--- |  :--- |  :--- |  :--- |  :--- |  :--- |  :--- | 
 | 1 | Arthur Rocha Veloso | SIM | SIM | SIM | SIM | SIM | SIM | SIM | SIM | 5.0 | 0.62 | 0.0 | 
 | 2 | Davi Alves Brito | SIM | SIM |  | SIM | SIM | SIM |  |  | 3.2 | 0.62 | 0.0 | 
 | 3 | Emilly Vitória Silva Moura | SIM | SIM | SIM | SIM | SIM |  |  | SIM | 3.8 | 0.62 | 0.0 | 
@@ -149,3 +165,6 @@
 | 15 | Kauan Araújo de Souza | SIM | SIM | SIM | SIM | SIM | SIM | SIM | SIM | 5.0 | 0.62 | 0.0 | 
 | 16 | Gustavo Vieira Maciel de Luna | SIM | SIM | SIM |  | SIM | SIM | SIM | SIM | 4.4 | 0.62 | 0.0 | 
 | 17 | João Gabriel Pereira Farias | SIM | SIM |  | SIM | SIM | SIM | SIM | SIM | 4.4 | 0.62 | 0.0 | 
+
+## Informações
+Construído por scholarium.bot@shcolarium.com.br | 22/03/2026 16:16:46
