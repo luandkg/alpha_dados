@@ -27,5 +27,5 @@
 
 [Turma 6D](1_Bimestre/1_Bimestre_6D.tsv)
 
-Construído por ScholariumBot - 03/04/2026 12:34:57
+Construído por ScholariumBot - 03/04/2026 12:37:48
 
